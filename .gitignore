@@ -1,0 +1,7 @@
+.aws/
+_pycache_/
+.ssh/
+.vscode/
+
+docker-compose.yml
+ngrok.yml
