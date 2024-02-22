@@ -1,0 +1,5 @@
+flask
+uwsgi
+Flask-HTTPAuth
+boto3
+langchain
